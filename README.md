@@ -43,21 +43,6 @@ This repository is dedicated to the SOC (Security Operations Center) Analyst cou
 **Check out my YouTube channel for more resources on Python and cybersecurity:**  
 [My YouTube Channel](https://www.youtube.com/playlist?list=PLX1eV90xXed2wujMJKUdsWQu2UMS9ROGO)
 
-- **TechChip**  
-  This channel provides cybersecurity tutorials in Hindi, covering topics like ethical hacking, SOC analyst skills, and security tools.  
-  **Link**: [TechChip](https://www.youtube.com/user/TechChipNet)
-
-- **Learn Code Online**  
-  While primarily focused on programming, this channel also has cybersecurity tutorials and ethical hacking courses in Hindi.  
-  **Link**: [Learn Code Online](https://www.youtube.com/c/learncodeonline)
-
-- **HackerSploit**  
-  This channel offers cybersecurity and ethical hacking tutorials. While it is primarily in English, it is a great resource for learning SOC-related topics.  
-  **Link**: [HackerSploit](https://www.youtube.com/c/HackerSploit)
-
-- **GeeksforGeeks**  
-  This well-known platform for coding tutorials also offers cybersecurity courses, including content related to SOC in both Hindi and English.  
-  **Link**: [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
 
 ## Important Skills and Knowledge Areas for SOC Analysts
 
